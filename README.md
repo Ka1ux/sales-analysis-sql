@@ -1,6 +1,6 @@
 # 📊 Análise de Vendas de E-commerce (EDA + SQL)
 
-![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green)
+![CI](https://github.com/Ka1ux/sales-analysis-sql/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green)
 
 Projeto de **Análise de Dados**: exploração de 20.000 pedidos de um e-commerce,
 respondendo perguntas de negócio com **Python** e **SQL**, e gerando um mini
