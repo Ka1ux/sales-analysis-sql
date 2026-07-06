@@ -1,5 +1,7 @@
 # 📊 Análise de Vendas de E-commerce (EDA + SQL)
 
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green)
+
 Projeto de **Análise de Dados**: exploração de 20.000 pedidos de um e-commerce,
 respondendo perguntas de negócio com **Python** e **SQL**, e gerando um mini
 dashboard de gráficos.
@@ -62,3 +64,17 @@ sqlite3 dados/vendas.db < consultas.sql
 ## 📓 Notebook
 
 Versão em Jupyter Notebook (já executada, com saídas e gráficos): [`notebook.ipynb`](notebook.ipynb).
+
+## 🧠 Habilidades demonstradas
+
+- Escrita de **consultas SQL** para perguntas de negócio
+- Análise exploratória e cálculo de KPIs
+- Visualização de dados (matplotlib / seaborn)
+- Integração **pandas + SQLite**
+
+---
+
+### 👤 Autor
+**Kauã Barroso** — Estudante de Engenharia de Computação, focado em Dados e IA.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3barroso/)
